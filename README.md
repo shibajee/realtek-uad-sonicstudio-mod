@@ -12,7 +12,7 @@ After the restart u will get a Startup Settings page, press F7 to go into disabl
 
 - Go to ***UAD_SS3 folder and double click Setup.exe.
 
-![alt text](https://i.postimg.cc/9QDrtMSq/Untitled-2.png)
+![alt text](/img/warning.png)
 
 Continue with the warning sign and click Install this driver software anyway. Do not restart, select I will restart my computer later.
 
@@ -27,15 +27,14 @@ Wait 1 min to give time to install the UWP application properly.
 - Restart ur PC and Enjoy Sonic Studio 3. Open the app, play a music file and try different presets or settings in Sonic studio app to ensure that effects r working properly.
 
 
-![alt text](https://i.imgur.com/GaZsv0t.png)
-![alt text](https://i.imgur.com/e5y7udn.png)
+![alt text](/img/sonicstudio.png)
 
 
 ## FAQ:
 
 - Which Windows version is compatible ?
 
-Windows 10 64bit 20H1 to latest whatever version.
+Windows 10 ≥ 20H1 & Windows 11 latest whatever version.
 
 - Why no 32bit support ?
 
@@ -51,4 +50,4 @@ No, I like things simple and lightweight.
 
 - Any update schedule for driver ?
 
-At least once in every month.
+When I have free time.
